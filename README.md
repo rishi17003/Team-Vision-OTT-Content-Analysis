@@ -1,7 +1,7 @@
 # HackNow-Hackathon-Submission-2023
 
 * Team Name : [TEAM Vision]
-* Members Name : [Rishi Katkar] [Sachin Mishra] [Priyanshu Mishra] etc...
+* Members Name : [Rishi Katkar] [Sachin Mishra] [Priyanshu Mishra]
 * Description : [OTT Content Analysis - Handle the data and create a visual dashboard to show insights. Identify the patterns or seasonality and categorize.]
 * Steps to run the program with commands:
 1) Download the file from the github repository along with the dataset which is of the .csv format.
